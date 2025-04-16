@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
-const testimonials = [
+export const testimonials = [
   {
     name: "Ahmed Yusuf",
     role: "Trusted Logistics Partner",
